@@ -70,7 +70,7 @@ $\mathscr{L}_{total}=\mathscr{L}_{base}(P,Y)+\sum_{r\in\text{Reg}}\lambda_r\cdot
 
 ($\mathscr{L}_{cc}$) Connectivity Coherence Loss
 
-($\mathscr{L}_{ \mathscr{WHR}}$) Weighted Hausdorff Regularization
+($\mathscr{L}_{\mathscr{WHR}}$) Weighted Hausdorff Regularization
 
 ($\mathscr{L}_{tc}$) Topological Complexity / Persistence Diagrams
 
