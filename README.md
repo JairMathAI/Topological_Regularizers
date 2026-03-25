@@ -43,7 +43,7 @@ If you want to access the implementation of the regularizers for improvements or
 
 With the project installed, you can now train and run inference with the models.
 
-## Trainig
+## Training
 
 For training, use the provided [YAML templates](docs/yaml_configurations). These files contain clear descriptions of the parameters and training options. Simply set your values, save your configuration, and run:
 
